@@ -5,4 +5,4 @@ x('cześć')
 function y (car){
     console.log(car)
 }
-y('honda preloude')
+y('honda preloude123')
