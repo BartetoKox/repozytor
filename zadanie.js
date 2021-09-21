@@ -1,4 +1,4 @@
 function x (test){
     console.log(test)
 }
-x('buźka')
+x('buźka jest git')
