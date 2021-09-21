@@ -9,4 +9,4 @@ y('honda preloud123')
 //amonguas
 //asdkadjgasjdcgvsqfghjsavdcfhqgfusqgfgwqe\
 //swdf;hsadfjbaxc
-//\qfjksajcskjdf\ zmiana tak  moze czasami ewentualnie w rzadkich przypadkach
+
