@@ -5,5 +5,5 @@ x('cześć')
 function y (car){
     console.log(car)
 }
-y('honda preloud123')
+y('honda')
 //amonguas
